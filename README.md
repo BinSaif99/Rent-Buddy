@@ -1,2 +1,9 @@
 # Rent Buddy
- Rent Buddy is a smart vehicle renting system designed for tourists, built using C# and MSSQL for database connectivity. Developed in Microsoft Visual Studio, this project utilizes XAMPP for localhost connection, ensuring seamless integration and efficient management of vehicle rental services.
+
+This project is currently undergoing maintenance and will be temporarily unavailable. We are working on adding new features and updating the version to enhance the functionality and user experience.
+
+Please stay tuned for the updated version, which will be released soon.
+
+Thank you for your patience and understanding.
+
+[//]: # "Feel free to update this readme with more details once the project is back online."
